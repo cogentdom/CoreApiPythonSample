@@ -106,4 +106,4 @@ venv.bak/
 
 # config.ini
 config.ini
-
+*.ini
